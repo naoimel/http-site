@@ -1,0 +1,7 @@
+<html>
+<title> this website </title>
+<body>this is a website
+it is wow
+<img src="images.jpg" alt="Girl in a jacket">
+</body>
+</html>
